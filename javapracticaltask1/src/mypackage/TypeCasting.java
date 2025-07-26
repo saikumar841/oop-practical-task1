@@ -6,10 +6,10 @@ public class TypeCasting {
 		byte b; 
 		 int i = 268; 
 		 double d = 313.132; 
-		 // automatic type conversion (Implicit Type casting)
+		 
 		 d = i;
 		 System.out.println("\n Conversion of int to double: " + d);
-		 //explicit Type casting
+		
 		 System.out.println("\nConversion of int to byte."); 
 		 b = (byte) i; 
 		 System.out.println("i and b " + i + " " + b); 
