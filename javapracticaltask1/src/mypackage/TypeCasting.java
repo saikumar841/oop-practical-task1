@@ -9,7 +9,6 @@ public class TypeCasting {
 		 
 		 d = i;
 		 System.out.println("\n Conversion of int to double: " + d);
-		
 		 System.out.println("\nConversion of int to byte."); 
 		 b = (byte) i; 
 		 System.out.println("i and b " + i + " " + b); 
